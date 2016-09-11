@@ -1,10 +1,12 @@
 * Population: Quantity, Space, Time
-** questions
+** questions (be specific, and incorporate data from the reading to answer these)
 *** what are the global population growth projections for the next few decades?
 *** _where_ is that growth expected to be concentrated?
+*** what are the trends in your group's region?
+*** what factors or processes are driving these trends?
 *** under what conditions is population a problem? hint: don't just consider examples of excess population.
 ** quantity
-*** resources and people
+*** population and environment, resources and people
 ** space
 *** concentration
 *** geographic scale
