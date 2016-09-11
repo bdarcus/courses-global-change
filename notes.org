@@ -1,7 +1,14 @@
-* Population
+* Population: Quantity, Space, Time
+** questions
+*** what are the global population growth projections for the next few decades?
+*** _where_ is that growth expected to be concentrated?
+*** under what conditions is population a problem? hint: don't just consider examples of excess population.
 ** quantity
 *** resources and people
-** scale
+** space
+*** concentration
+*** geographic scale
 ** change over time
-** movement vs natural increase
-
+*** population pyramids
+*** movement vs natural increase
+** population and resources: Malthus vs Marx
